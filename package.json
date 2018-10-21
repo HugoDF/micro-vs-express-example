@@ -1,0 +1,21 @@
+{
+  "name": "micro-vs-express-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "micro-app.js",
+  "scripts": {
+    "express": "node express-app.js",
+    "micro": "micro"
+  },
+  "keywords": [
+    "micro",
+    "express"
+  ],
+  "author": "Hugo Di Francesco",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "micro": "^9.3.3"
+  }
+}
